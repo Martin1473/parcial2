@@ -1,0 +1,50 @@
+
+body {
+    background-color: black;
+    font-family: "Donegal One", serif;
+  }
+  p {
+    color: aliceblue;
+    font: 1em sans-serif;
+  }
+  h1{
+    color: aliceblue;
+    font-size: 2rem !important;
+  }
+ul{
+   color: aliceblue;
+}
+ol{
+   color: aliceblue;
+}
+li{
+   color: aliceblue;
+}
+link{
+   color: aliceblue;
+   
+}
+h2{
+   color: aliceblue;
+}
+h3{
+color: aliceblue;
+}
+form{
+   color: aliceblue;
+}
+.donegal-one-regular {
+  font-family: "Donegal One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a:visited {
+  color: rgb(138, 2, 20); 
+}
+img {
+  transition: transform 0.4s;
+}
+
+img:hover {
+  transform: scale(2) 
+}

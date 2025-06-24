@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    font-family: "Donegal One", serif;
+  }
+  p {
+    color: aliceblue;
+    font: 1em sans-serif;
+  }
+  h1{
+    color: aliceblue;
+    
+  }
+  a:visited {
+  color: rgb(138, 2, 20); 
+}
